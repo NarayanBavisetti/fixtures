@@ -4,7 +4,9 @@ import React from 'react';
 const weather = () => {
     const 
     return(
-noting was written
+        <>
+nothing was written
+</>
     )
 
 }
