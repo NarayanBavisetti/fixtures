@@ -1,12 +1,18 @@
 import React from 'react';
 
+
 import Weather from './components/weatherapp'
+import { Container } from 'react-bootstrap'
+
 
 function App() {
   return (
-    <div className="App">
- <Weather />
-    </div>
+    
+    // <SignUp />    
+ <Container>
+
+ </Container> 
+    
   );
 }
 
